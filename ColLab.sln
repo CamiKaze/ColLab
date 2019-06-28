@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColLab", "ColLab.csproj", "{FE833780-DBEC-495F-9ACC-A710575FC899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE833780-DBEC-495F-9ACC-A710575FC899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE833780-DBEC-495F-9ACC-A710575FC899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE833780-DBEC-495F-9ACC-A710575FC899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE833780-DBEC-495F-9ACC-A710575FC899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744A5AFB-570E-49C6-9D94-B5A4315E58C9}
+	EndGlobalSection
+EndGlobal
